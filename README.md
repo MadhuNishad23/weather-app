@@ -1,3 +1,9 @@
+# Group 1: Raipur Campus
+
+# Lead By: Madhu Nishad
+
+# Group Members: Kusum, Urmila, Kumkum
+
 # Weather App
 
 A web application that allows users to search for weather information by city name and displays current weather, a 5-day forecast, and more.
