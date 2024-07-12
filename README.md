@@ -24,7 +24,7 @@ Installation
 
 # Detailed instructions on how to install and set up the project.
 Clone the repository
-git clone https://github.com/MadhuNishas23/weather-app.git
+git clone https://github.com/MadhuNishad23/weather-app.git
 
 Navigate to the project directory
 cd weather-app
