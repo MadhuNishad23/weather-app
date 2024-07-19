@@ -25,6 +25,7 @@ body {
     padding: 40px 35px;
     text-align: center;
     box-sizing: border-box;
+    background-color: #00000088;
 }
 
 .search {
