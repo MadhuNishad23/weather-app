@@ -36,7 +36,7 @@ npm install
 Instructions and examples for using the project.
 Run the application (example command, modify as needed)
 npm start
-Open your browser and navigate to http://127.0.0.1:5500/index.html.
+Open your browser and navigate to https://incandescent-zuccutto-546cf9.netlify.app/ .
 Enter a city name in the search bar to get the current weather and 5-day forecast.
 
 # Features
